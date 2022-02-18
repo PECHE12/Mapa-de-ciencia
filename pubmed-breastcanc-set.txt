@@ -1,0 +1,763 @@
+PMID- 27723074
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180712
+LR  - 20180712
+IS  - 0017-0011 (Print)
+IS  - 0017-0011 (Linking)
+VI  - 87
+IP  - 9
+DP  - 2016
+TI  - Breast cancer in young women.
+PG  - 659-663
+LID - 10.5603/GP.2016.0062 [doi]
+AB  - Breast cancer (BC) in young women is rare, affecting only 4-6% of women under the 
+      age of 40. Regardless, BC remains the most common malignancy among younger patients. 
+      Recently, a significant increase in BC rates has been observed among pre-menopausal 
+      subjects. Breast cancer in young women requires special attention due to its 
+      specific morphologic and prognostic characteristics and unique aspects, including 
+      fertility preservation and psychosocial issues (e.g. its impact on family life and 
+      career). Young women are more likely to have tumors with higher incidence of 
+      negative clinicopathologic features (higher histological grade, more lymph node 
+      positivity, lower estrogen receptor (ER) positivity, higher rates of Her2/neu 
+      overexpression). Also, they tend to be diagnosed at more advanced stages of the 
+      disease. That, in turn, contributes to less favorable prognosis as compared to older 
+      women. Young women are generally treated similarly to older patients. Surgical 
+      management includes mastectomy or breast-conserving surgery, followed by radiation 
+      therapy (younger women have higher local recurrence rates than older women, 
+      especially after breast-conserving therapy). Although the basics of chemotherapy are 
+      the same for patients of all ages, younger women have some special considerations. 
+      It is important to consider options for fertility preservation before starting 
+      systemic treatment. Patients should have access to genetic testing as their results 
+      may affect the choice of therapy. Younger women and their families should receive 
+      adequate psychological support and counselling.
+FAU - Radecka, Barbara
+AU  - Radecka B
+AD  - Regional Cancer Centre in Opole, Poland. brad@onkologia.opole.pl.
+FAU - Litwiniuk, Maria
+AU  - Litwiniuk M
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - Poland
+TA  - Ginekol Pol
+JT  - Ginekologia polska
+JID - 0374641
+SB  - IM
+MH  - *Breast Neoplasms/diagnosis/epidemiology/pathology/surgery
+MH  - Chemotherapy, Adjuvant
+MH  - Female
+MH  - Fertility
+MH  - Humans
+MH  - Poland/epidemiology
+MH  - Pregnancy
+MH  - Prognosis
+MH  - Radiotherapy, Adjuvant
+OTO - NOTNLM
+OT  - *breast cancer
+OT  - *fertility
+OT  - *treatment
+EDAT- 2016/10/11 06:00
+MHDA- 2018/07/13 06:00
+CRDT- 2016/10/11 06:00
+PHST- 2016/09/30 00:00 [received]
+PHST- 2016/09/30 00:00 [accepted]
+PHST- 2016/10/11 06:00 [entrez]
+PHST- 2016/10/11 06:00 [pubmed]
+PHST- 2018/07/13 06:00 [medline]
+AID - VM/OJS/J/48999 [pii]
+AID - 10.5603/GP.2016.0062 [doi]
+PST - ppublish
+SO  - Ginekol Pol. 2016;87(9):659-663. doi: 10.5603/GP.2016.0062.
+
+PMID- 27137076
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170531
+LR  - 20191027
+IS  - 1875-5992 (Electronic)
+IS  - 1871-5206 (Linking)
+VI  - 17
+IP  - 2
+DP  - 2017
+TI  - Breast Cancer: Current Molecular Therapeutic Targets and New Players.
+PG  - 152-163
+AB  - Breast cancer is the most common cancer and the most frequent cause of cancer death 
+      among women worldwide. Breast cancer is a complex, heterogeneous disease classified 
+      into hormone-receptor-positive, human epidermal growth factor receptor-2 
+      overexpressing (HER2+) and triple-negative breast cancer (TNBC) based on 
+      histological features. Endocrine therapy, the mainstay of treatment for 
+      hormone-responsive breast cancer involves use of selective estrogen receptor 
+      modulators (SERMs), selective estrogen receptor downregulators (SERDs) and aromatase 
+      inhibitors (AIs). Agents that target estrogen receptor (ER) and HER2 such as 
+      tamoxifen and trastuzumab have been the most extensively used therapeutics for 
+      breast cancer. Crosstalk between ER and other signalling networks as well as 
+      epigenetic mechanisms have been envisaged to contribute to endocrine therapy 
+      resistance. TNBC, a complex, heterogeneous, aggressive form of breast cancer in 
+      which the cells do not express ER, progesterone receptor or HER2 is refractory to 
+      therapy. Several molecular targets are being explored to target TNBC including 
+      androgen receptor, epidermal growth factor receptor (EGFR), poly(ADP-ribose) 
+      polymerase (PARP), and vascular endothelial growth factor (VEGF). Receptors, protein 
+      tyrosine kinases, phosphatases, proteases, PI3K/Akt signalling pathway, microRNAs 
+      (miRs) and long noncoding RNAs (lncRNAs) are potential therapeutic targets. 
+      miR-based therapeutic approaches include inhibition of oncomiRs by antisense 
+      oligonucleotides, restoration of tumour suppressors using miR mimics, and chemical 
+      modification of miRs. The lnRNAs HOTAIR, SPRY4-IT1, GAS5, and PANDAR, new players in 
+      tumour development and prognosis may have theranostic applications in breast cancer. 
+      Several novel classes of mechanism-based drugs have been designed and synthesised 
+      for treatment of breast cancer. Integration of nucleic acid sequencing studies with 
+      mass spectrometry-based peptide sequencing and posttranslational modifications as 
+      well as rational drug design will provide a more comprehensive understanding of the 
+      pathophysiology of breast cancer and help in evolving therapeutic strategies.
+FAU - Nagini, Siddavaram
+AU  - Nagini S
+AD  - Department of Biochemistry and Biotechnology, Faculty of Science, Annamalai 
+      University, Annamalainagar- 608 002, Tamil Nadu,India.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - Netherlands
+TA  - Anticancer Agents Med Chem
+JT  - Anti-cancer agents in medicinal chemistry
+JID - 101265649
+RN  - 0 (Antineoplastic Agents)
+RN  - 0 (RNA, Long Noncoding)
+SB  - IM
+MH  - Animals
+MH  - Antineoplastic Agents/pharmacology/*therapeutic use
+MH  - Breast/*drug effects/metabolism/pathology
+MH  - Breast Neoplasms/*drug therapy/genetics/metabolism/pathology
+MH  - Female
+MH  - Gene Expression Regulation, Neoplastic/drug effects
+MH  - Humans
+MH  - *Molecular Targeted Therapy
+MH  - RNA, Long Noncoding/genetics/metabolism
+MH  - Signal Transduction/drug effects
+MH  - Triple Negative Breast Neoplasms/drug therapy/metabolism/pathology
+EDAT- 2016/05/04 06:00
+MHDA- 2017/06/01 06:00
+CRDT- 2016/05/04 06:00
+PHST- 2015/12/04 00:00 [received]
+PHST- 2016/04/04 00:00 [revised]
+PHST- 2016/04/30 00:00 [accepted]
+PHST- 2016/05/04 06:00 [pubmed]
+PHST- 2017/06/01 06:00 [medline]
+PHST- 2016/05/04 06:00 [entrez]
+AID - ACAMC-EPUB-75294 [pii]
+AID - 10.2174/1871520616666160502122724 [doi]
+PST - ppublish
+SO  - Anticancer Agents Med Chem. 2017;17(2):152-163. doi: 
+      10.2174/1871520616666160502122724.
+
+PMID- 28862198
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180502
+LR  - 20180502
+IS  - 1998-4138 (Electronic)
+IS  - 1998-4138 (Linking)
+VI  - 13
+IP  - 3
+DP  - 2017 Jul-Sep
+TI  - Physical activity influences the immune system of breast cancer patients.
+PG  - 392-398
+LID - 10.4103/0973-1482.150356 [doi]
+AB  - It has been suggested that physical activity in breast cancer patients can not only 
+      improve quality of life. Influences on physical and psychological levels have been 
+      evaluated, but effects on the immune system of breast cancer patients are hardly 
+      known. A PubMed search identified relevant trials and meta-analyses from 1970 to 
+      2013. This review summarizes the results of international studies and the current 
+      discussion of effects of physical activity on the immune system of breast cancer 
+      patients. Highlighted are effects of physical activity on the immune system. Seven 
+      original articles and 14 reviews included in this review. Two original and the 
+      review articles includes other tumor entities besides breast cancer.Evaluated 
+      methods such as dose-response relationships for exercise in oncology, hardly exist. 
+      Increased immunological anti-cancer activity due to physical activity is probably 
+      mediated via an increase in number and cytotoxicity of monocytes and natural killer 
+      cells and cytokines.
+FAU - Schmidt, Thorsten
+AU  - Schmidt T
+AD  - University of Kiel, Comprehensive Cancer Center, Kiel, Germany.
+FAU - van Mackelenbergh, Marion
+AU  - van Mackelenbergh M
+AD  - Department of Obstetrics and Gynecology, University of Kiel, OB/GYN, Breast Unit, 
+      Kiel, Germany.
+FAU - Wesch, Daniela
+AU  - Wesch D
+AD  - Institute of Immunology, University of Kiel, Institute of Immunology, Kiel, Germany.
+FAU - Mundhenke, Christoph
+AU  - Mundhenke C
+AD  - Department of Obstetrics and Gynecology, University of Kiel, OB/GYN, Breast Unit, 
+      Kiel, Germany.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - India
+TA  - J Cancer Res Ther
+JT  - Journal of cancer research and therapeutics
+JID - 101249598
+SB  - IM
+MH  - Breast Neoplasms/*epidemiology/*immunology/physiopathology/rehabilitation
+MH  - *Exercise
+MH  - Female
+MH  - Humans
+MH  - Immune System/*physiopathology
+MH  - Quality of Life
+EDAT- 2017/09/02 06:00
+MHDA- 2018/05/03 06:00
+CRDT- 2017/09/02 06:00
+PHST- 2017/09/02 06:00 [entrez]
+PHST- 2017/09/02 06:00 [pubmed]
+PHST- 2018/05/03 06:00 [medline]
+AID - JCanResTher_2017_13_3_392_150356 [pii]
+AID - 10.4103/0973-1482.150356 [doi]
+PST - ppublish
+SO  - J Cancer Res Ther. 2017 Jul-Sep;13(3):392-398. doi: 10.4103/0973-1482.150356.
+
+PMID- 24283956
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20150413
+LR  - 20190728
+IS  - 1873-4286 (Electronic)
+IS  - 1381-6128 (Linking)
+VI  - 20
+IP  - 30
+DP  - 2014
+TI  - Breast cancer biomarkers: risk assessment, diagnosis, prognosis, prediction of 
+      treatment efficacy and toxicity, and recurrence.
+PG  - 4879-98
+AB  - Breast cancer is the most common cancer amongst women in the United States and 
+      around the world. Although widespread use of adjuvant chemotherapeutic and hormonal 
+      agents has improved mortality from breast cancer, it remains challenging to 
+      determine on an individual basis who will benefit from such treatments and who will 
+      be likely to encounter toxicities. With the rising costs of healthcare and the 
+      introduction of new targeted therapies, use of biomarkers has emerged as a method of 
+      assisting with breast cancer diagnosis, prognosis, prediction of therapeutic 
+      response, and surveillance of disease during and after treatment. In the following 
+      review, prognostic and therapeutic biomarkers, their utility in the management of 
+      patients with breast cancer, and current recommendations regarding their clinical 
+      use will be discussed.
+FAU - M Braden, Amy
+AU  - M Braden A
+FAU - V Stankowski, Rachel
+AU  - V Stankowski R
+FAU - M Engel, Jessica
+AU  - M Engel J
+FAU - A Onitilo, Adedayo
+AU  - A Onitilo A
+AD  - Department of Hematology/ Oncology, Marshfield Clinic Weston Center, 3501 Cranberry 
+      Boulevard, Weston, WI 54476 USA. onitilo.adedayo@marshfieldclinic.org.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - United Arab Emirates
+TA  - Curr Pharm Des
+JT  - Current pharmaceutical design
+JID - 9602487
+SB  - IM
+MH  - Breast Neoplasms/diagnosis/*metabolism/pathology/therapy
+MH  - Early Diagnosis
+MH  - Female
+MH  - Humans
+MH  - Recurrence
+MH  - Risk Assessment
+EDAT- 2013/11/29 06:00
+MHDA- 2015/04/14 06:00
+CRDT- 2013/11/29 06:00
+PHST- 2013/09/29 00:00 [received]
+PHST- 2013/11/21 00:00 [accepted]
+PHST- 2013/11/29 06:00 [entrez]
+PHST- 2013/11/29 06:00 [pubmed]
+PHST- 2015/04/14 06:00 [medline]
+AID - CPD-EPUB-57625 [pii]
+AID - 10.2174/1381612819666131125145517 [doi]
+PST - ppublish
+SO  - Curr Pharm Des. 2014;20(30):4879-98. doi: 10.2174/1381612819666131125145517.
+
+PMID- 20452298
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20101008
+LR  - 20211020
+IS  - 1878-0261 (Electronic)
+IS  - 1574-7891 (Print)
+IS  - 1574-7891 (Linking)
+VI  - 4
+IP  - 3
+DP  - 2010 Jun
+TI  - Histological types of breast cancer: how special are they?
+PG  - 192-208
+LID - 10.1016/j.molonc.2010.04.004 [doi]
+AB  - Breast cancer is a heterogeneous disease, comprising multiple entities associated 
+      with distinctive histological and biological features, clinical presentations and 
+      behaviours and responses to therapy. Microarray-based technologies have unravelled 
+      the molecular underpinning of several characteristics of breast cancer, including 
+      metastatic propensity and histological grade, and have led to the identification of 
+      prognostic and predictive gene expression signatures. Furthermore, a molecular 
+      taxonomy of breast cancer based on transcriptomic analysis has been proposed. 
+      However, microarray studies have primarily focused on invasive ductal carcinomas of 
+      no special type. Owing to the relative rarity of special types of breast cancer, 
+      information about the biology and clinical behaviour of breast cancers conveyed by 
+      histological type has not been taken into account. Histological special types of 
+      breast cancer account for up to 25% of all invasive breast cancers. Recent studies 
+      have provided direct evidence of the existence of genotypic-phenotypic correlations. 
+      For instance, secretory carcinomas of the breast consistently harbour the t(12;15) 
+      translocation that leads to the formation of the ETV6-NTRK3 fusion gene, adenoid 
+      cystic carcinomas consistently display the t(6;9) MYB-NFIB translocation and lobular 
+      carcinomas consistently show inactivation of the CDH1 gene through multiple 
+      molecular mechanisms. Furthermore, histopathological and molecular analysis of 
+      tumours from conditional mouse models has provided direct evidence for the causative 
+      role of specific genes in the genesis of specific histological special types of 
+      breast cancer. Here we review the associations between the molecular taxonomy of 
+      breast cancer and histological special types, discuss the possible origins of the 
+      heterogeneity of breast cancer and propose an approach for the identification of 
+      novel therapeutic targets based on the study of histological special types of breast 
+      cancer.
+CI  - (c) 2010 Federation of European Biochemical Societies. Published by Elsevier B.V. 
+      All rights reserved.
+FAU - Weigelt, Britta
+AU  - Weigelt B
+AD  - Cancer Research UK, London Research Institute, Lincoln's Inn Fields Laboratories, 
+      London WC2A 3PX, UK.
+FAU - Geyer, Felipe C
+AU  - Geyer FC
+FAU - Reis-Filho, Jorge S
+AU  - Reis-Filho JS
+LA  - eng
+GR  - Cancer Research UK/United Kingdom
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20100418
+TA  - Mol Oncol
+JT  - Molecular oncology
+JID - 101308230
+RN  - 0 (Biomarkers, Tumor)
+SB  - IM
+MH  - Animals
+MH  - Biomarkers, Tumor/metabolism
+MH  - Breast Neoplasms/*classification/genetics/metabolism/*pathology
+MH  - Female
+MH  - Gene Expression Profiling
+MH  - Gene Expression Regulation, Neoplastic
+MH  - Genotype
+MH  - Humans
+MH  - Oligonucleotide Array Sequence Analysis
+MH  - Phenotype
+PMC - PMC5527938
+EDAT- 2010/05/11 06:00
+MHDA- 2010/10/12 06:00
+CRDT- 2010/05/11 06:00
+PHST- 2010/01/25 00:00 [received]
+PHST- 2010/04/11 00:00 [revised]
+PHST- 2010/04/12 00:00 [accepted]
+PHST- 2010/05/11 06:00 [entrez]
+PHST- 2010/05/11 06:00 [pubmed]
+PHST- 2010/10/12 06:00 [medline]
+AID - S1574-7891(10)00026-8 [pii]
+AID - MOL2201043192 [pii]
+AID - 10.1016/j.molonc.2010.04.004 [doi]
+PST - ppublish
+SO  - Mol Oncol. 2010 Jun;4(3):192-208. doi: 10.1016/j.molonc.2010.04.004. Epub 2010 Apr 
+      18.
+
+PMID- 28395765
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170526
+LR  - 20170526
+IS  - 1532-8708 (Electronic)
+IS  - 0093-7754 (Linking)
+VI  - 44
+IP  - 1
+DP  - 2017 Feb
+TI  - Screening for breast cancer.
+PG  - 60-72
+LID - S0093-7754(16)30110-5 [pii]
+LID - 10.1053/j.seminoncol.2017.02.004 [doi]
+AB  - This review will give a general overview of the impact of breast cancer, as well as 
+      breast cancer risk factors, identification of high-risk groups, screening 
+      modalities, and guidelines for screening average-risk and high-risk individuals, 
+      including a case discussion of the primary care provider's approach to screening.
+CI  - Copyright © 2017 Elsevier Inc. All rights reserved.
+FAU - Peairs, Kimberly S
+AU  - Peairs KS
+AD  - Johns Hopkins School of Medicine, Department of Medicine, Division of General 
+      Internal Medicine, Baltimore, MD; Johns Hopkins Sidney Kimmel Comprehensive Cancer 
+      Center, Baltimore, MD. Electronic address: kpeairs@jhmi.edu.
+FAU - Choi, Youngjee
+AU  - Choi Y
+AD  - Johns Hopkins School of Medicine, Department of Medicine, Division of General 
+      Internal Medicine, Baltimore, MD.
+FAU - Stewart, Rosalyn W
+AU  - Stewart RW
+AD  - Johns Hopkins School of Medicine, Department of Medicine, Division of General 
+      Internal Medicine, Baltimore, MD.
+FAU - Sateia, Heather F
+AU  - Sateia HF
+AD  - Johns Hopkins School of Medicine, Department of Medicine, Division of General 
+      Internal Medicine, Baltimore, MD.
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+PT  - Review
+DEP - 20170213
+PL  - United States
+TA  - Semin Oncol
+JT  - Seminars in oncology
+JID - 0420432
+SB  - IM
+CIN - Semin Oncol. 2017 Feb;44(1):73. PMID: 28395766
+MH  - Breast Neoplasms/*diagnosis/etiology/mortality/pathology
+MH  - *Early Detection of Cancer
+MH  - Female
+MH  - Humans
+MH  - Mammography
+MH  - Middle Aged
+MH  - Neoplasm Staging
+MH  - Practice Guidelines as Topic
+OTO - NOTNLM
+OT  - *Breast cancer screening
+EDAT- 2017/04/12 06:00
+MHDA- 2017/05/27 06:00
+CRDT- 2017/04/12 06:00
+PHST- 2016/11/01 00:00 [received]
+PHST- 2017/01/29 00:00 [revised]
+PHST- 2017/02/06 00:00 [accepted]
+PHST- 2017/04/12 06:00 [entrez]
+PHST- 2017/04/12 06:00 [pubmed]
+PHST- 2017/05/27 06:00 [medline]
+AID - S0093-7754(16)30110-5 [pii]
+AID - 10.1053/j.seminoncol.2017.02.004 [doi]
+PST - ppublish
+SO  - Semin Oncol. 2017 Feb;44(1):60-72. doi: 10.1053/j.seminoncol.2017.02.004. Epub 2017 
+      Feb 13.
+
+PMID- 28298516
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20171023
+LR  - 20171023
+IS  - 1943-5657 (Electronic)
+IS  - 0033-8397 (Linking)
+VI  - 88
+IP  - 4
+DP  - 2017 Mar
+TI  - Precision Medicine in Breast Cancer.
+PG  - 401M-421M
+AB  - Breast cancer care has improved markedly in recent decades, but new advancements in 
+      diagnosis and treatment depend on translating genomics and precision medicine into 
+      clinical care. This article discusses the basics of genomics, breast cancer 
+      biomarkers and subtypes, and the effects of genomic advancements on future breast 
+      cancer diagnosis, treatment, and survival. The article also presents challenges 
+      related to introducing precision medicine into cancer care and the role of imaging 
+      in breast cancer diagnosis and treatment in precision medicine.
+CI  - ©2017 American Society of Radiologic Technologists.
+FAU - Odle, Teresa G
+AU  - Odle TG
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - United States
+TA  - Radiol Technol
+JT  - Radiologic technology
+JID - 0401256
+RN  - 0 (Biomarkers, Tumor)
+SB  - IM
+MH  - Biomarkers, Tumor
+MH  - Breast Neoplasms/*diagnosis/*genetics/*therapy
+MH  - Female
+MH  - *Genomics
+MH  - Humans
+MH  - *Precision Medicine
+EDAT- 2017/03/17 06:00
+MHDA- 2017/10/24 06:00
+CRDT- 2017/03/17 06:00
+PHST- 2017/03/17 06:00 [entrez]
+PHST- 2017/03/17 06:00 [pubmed]
+PHST- 2017/10/24 06:00 [medline]
+AID - 88/4/401M [pii]
+PST - ppublish
+SO  - Radiol Technol. 2017 Mar;88(4):401M-421M.
+
+PMID- 30005774
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180719
+LR  - 20180719
+IS  - 1558-3171 (Electronic)
+IS  - 0039-6109 (Linking)
+VI  - 98
+IP  - 4
+DP  - 2018 Aug
+TI  - Inflammatory Breast Cancer: What to Know About This Unique, Aggressive Breast 
+      Cancer.
+PG  - 787-800
+LID - S0039-6109(18)30039-2 [pii]
+LID - 10.1016/j.suc.2018.03.009 [doi]
+AB  - Inflammatory breast cancer (IBC) is a rare form of breast cancer that accounts for 
+      only 2% to 4% of all breast cancer cases. Despite its low incidence, IBC contributes 
+      to 7% to 10% of breast cancer caused mortality. Despite ongoing international 
+      efforts to formulate better diagnosis, treatment, and research, the survival of 
+      patients with IBC has not been significantly improved, and there are no therapeutic 
+      agents that specifically target IBC to date. The authors present a comprehensive 
+      overview that aims to assess the present and new management strategies of IBC.
+CI  - Copyright © 2018 Elsevier Inc. All rights reserved.
+FAU - Menta, Arjun
+AU  - Menta A
+AD  - The University of Texas at Austin, 110 Inner Campus Drive, Austin, TX 78705, USA.
+FAU - Fouad, Tamer M
+AU  - Fouad TM
+AD  - Morgan Welch Inflammatory Breast Cancer Research and Clinic Program, The University 
+      of Texas MD Anderson Cancer Center, 1515 Holcombe Boulevard, Houston, TX 77030, USA; 
+      Department of Medical Oncology, The National Cancer Institute, Cairo University, 
+      Cairo 11796, Egypt.
+FAU - Lucci, Anthony
+AU  - Lucci A
+AD  - Morgan Welch Inflammatory Breast Cancer Research and Clinic Program, The University 
+      of Texas MD Anderson Cancer Center, 1515 Holcombe Boulevard, Houston, TX 77030, USA; 
+      Breast Surgical Oncology, The University of Texas MD Anderson Cancer Center, 1515 
+      Holcombe Boulevard, Houston, TX 77030, USA.
+FAU - Le-Petross, Huong
+AU  - Le-Petross H
+AD  - Morgan Welch Inflammatory Breast Cancer Research and Clinic Program, The University 
+      of Texas MD Anderson Cancer Center, 1515 Holcombe Boulevard, Houston, TX 77030, USA; 
+      Breast Diagnostic Imaging, The University of Texas MD Anderson Cancer Center, 1515 
+      Holcombe Boulevard, Houston, TX 77030, USA.
+FAU - Stauder, Michael C
+AU  - Stauder MC
+AD  - Morgan Welch Inflammatory Breast Cancer Research and Clinic Program, The University 
+      of Texas MD Anderson Cancer Center, 1515 Holcombe Boulevard, Houston, TX 77030, USA; 
+      Radiation Oncology, The University of Texas MD Anderson Cancer Center, 1515 Holcombe 
+      Boulevard, Houston, TX 77030, USA.
+FAU - Woodward, Wendy A
+AU  - Woodward WA
+AD  - Morgan Welch Inflammatory Breast Cancer Research and Clinic Program, The University 
+      of Texas MD Anderson Cancer Center, 1515 Holcombe Boulevard, Houston, TX 77030, USA; 
+      Radiation Oncology, The University of Texas MD Anderson Cancer Center, 1515 Holcombe 
+      Boulevard, Houston, TX 77030, USA.
+FAU - Ueno, Naoto T
+AU  - Ueno NT
+AD  - Morgan Welch Inflammatory Breast Cancer Research and Clinic Program, The University 
+      of Texas MD Anderson Cancer Center, 1515 Holcombe Boulevard, Houston, TX 77030, USA; 
+      Breast Medical Oncology, The University of Texas MD Anderson Cancer Center, 1515 
+      Holcombe Boulevard, Houston, TX 77030, USA.
+FAU - Lim, Bora
+AU  - Lim B
+AD  - Morgan Welch Inflammatory Breast Cancer Research and Clinic Program, The University 
+      of Texas MD Anderson Cancer Center, 1515 Holcombe Boulevard, Houston, TX 77030, USA; 
+      Breast Medical Oncology, The University of Texas MD Anderson Cancer Center, 1515 
+      Holcombe Boulevard, Houston, TX 77030, USA. Electronic address: blim@mdanderson.org.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20180524
+PL  - United States
+TA  - Surg Clin North Am
+JT  - The Surgical clinics of North America
+JID - 0074243
+SB  - IM
+MH  - Breast Neoplasms/epidemiology/*pathology/*therapy
+MH  - Combined Modality Therapy
+MH  - Female
+MH  - Humans
+MH  - Inflammatory Breast Neoplasms/epidemiology/*pathology/*therapy
+OTO - NOTNLM
+OT  - Breast changes
+OT  - Clinical trials
+OT  - Inflammatory breast cancer
+OT  - Trimodality care
+EDAT- 2018/07/15 06:00
+MHDA- 2018/07/20 06:00
+CRDT- 2018/07/15 06:00
+PHST- 2018/07/15 06:00 [entrez]
+PHST- 2018/07/15 06:00 [pubmed]
+PHST- 2018/07/20 06:00 [medline]
+AID - S0039-6109(18)30039-2 [pii]
+AID - 10.1016/j.suc.2018.03.009 [doi]
+PST - ppublish
+SO  - Surg Clin North Am. 2018 Aug;98(4):787-800. doi: 10.1016/j.suc.2018.03.009. Epub 
+      2018 May 24.
+
+PMID- 32361569
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210315
+LR  - 20210315
+IS  - 1878-1705 (Electronic)
+IS  - 1567-5769 (Linking)
+VI  - 84
+DP  - 2020 Jul
+TI  - Breast cancer: Biology, biomarkers, and treatments.
+PG  - 106535
+LID - S1567-5769(20)30476-8 [pii]
+LID - 10.1016/j.intimp.2020.106535 [doi]
+AB  - During the past recent years, various therapies emerged in the era of breast cancer. 
+      Breast cancer is a heterogeneous disease in which genetic and environmental factors 
+      are involved. Breast cancer stem cells (BCSCs) are the main player in the 
+      aggressiveness of different tumors and also, these cells are the main challenge in 
+      cancer treatment. Moreover, the major obstacle to achieve an effective treatment is 
+      resistance to therapies. There are various types of treatment for breast cancer (BC) 
+      patients. Therefore, in this review, we present the current treatments, novel 
+      approaches such as antibody-drug conjugation systems (ADCs), nanoparticles 
+      (albumin-, metal-, lipid-, polymer-, micelle-based nanoparticles), and BCSCs-based 
+      therapies. Furthermore, prognostic and predictive biomarkers will be discussed also 
+      biomarkers that have been applied by some tests such as Oncotype DX, Mamm αPrint, 
+      and uPA/PAI-1 are regarded as suitable prognostic and predictive factors in breast 
+      cancer.
+CI  - Copyright © 2020 Elsevier B.V. All rights reserved.
+FAU - Barzaman, Khadijeh
+AU  - Barzaman K
+AD  - Department of Immunology, School of Medicine, Iran University of Medical Sciences, 
+      Tehran, Iran; Recombinant Proteins Department, Breast Cancer Research Center, 
+      Motamed Cancer Institute, ACECR, Tehran, Iran.
+FAU - Karami, Jafar
+AU  - Karami J
+AD  - Department of Immunology, School of Medicine, Iran University of Medical Sciences, 
+      Tehran, Iran; Rheumatology Research Center, Tehran University of Medical Sciences, 
+      Tehran, Iran.
+FAU - Zarei, Zeinab
+AU  - Zarei Z
+AD  - Department of Biomaterials and Tissue Engineering, Breast Cancer Research Center, 
+      Motamed Cancer Institute, ACECR, Tehran, Iran.
+FAU - Hosseinzadeh, Aysooda
+AU  - Hosseinzadeh A
+AD  - Recombinant Proteins Department, Breast Cancer Research Center, Motamed Cancer 
+      Institute, ACECR, Tehran, Iran.
+FAU - Kazemi, Mohammad Hossein
+AU  - Kazemi MH
+AD  - Student Research Committee, Department of Immunology, School of Medicine, Iran 
+      University of Medical Science, Tehran, Iran; ATMP Department, Breast Cancer Research 
+      Center, Motamed Cancer Institute, ACECR, Tehran, Iran.
+FAU - Moradi-Kalbolandi, Shima
+AU  - Moradi-Kalbolandi S
+AD  - Recombinant Proteins Department, Breast Cancer Research Center, Motamed Cancer 
+      Institute, ACECR, Tehran, Iran.
+FAU - Safari, Elahe
+AU  - Safari E
+AD  - Department of Immunology, School of Medicine, Iran University of Medical Sciences, 
+      Tehran, Iran; Immunology Research Center, Iran University of Medical Sciences, 
+      Tehran, Iran. Electronic address: el.safari@yahoo.com.
+FAU - Farahmand, Leila
+AU  - Farahmand L
+AD  - Recombinant Proteins Department, Breast Cancer Research Center, Motamed Cancer 
+      Institute, ACECR, Tehran, Iran. Electronic address: laylafarahmand@gmail.com.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20200429
+PL  - Netherlands
+TA  - Int Immunopharmacol
+JT  - International immunopharmacology
+JID - 100965259
+RN  - 0 (Antineoplastic Agents)
+RN  - 0 (Biomarkers, Tumor)
+SB  - IM
+MH  - Animals
+MH  - Antineoplastic Agents/therapeutic use
+MH  - Biomarkers, Tumor/genetics/metabolism
+MH  - *Breast Neoplasms/drug therapy/genetics/metabolism/pathology
+MH  - Female
+MH  - Humans
+OTO - NOTNLM
+OT  - Antibody-drug conjugation systems
+OT  - Breast cancer
+OT  - Breast cancer stem cells
+OT  - Immunotherapy
+OT  - Nanoparticles
+OT  - Treatment
+EDAT- 2020/05/04 06:00
+MHDA- 2021/03/16 06:00
+CRDT- 2020/05/04 06:00
+PHST- 2020/02/19 00:00 [received]
+PHST- 2020/04/20 00:00 [revised]
+PHST- 2020/04/20 00:00 [accepted]
+PHST- 2020/05/04 06:00 [pubmed]
+PHST- 2021/03/16 06:00 [medline]
+PHST- 2020/05/04 06:00 [entrez]
+AID - S1567-5769(20)30476-8 [pii]
+AID - 10.1016/j.intimp.2020.106535 [doi]
+PST - ppublish
+SO  - Int Immunopharmacol. 2020 Jul;84:106535. doi: 10.1016/j.intimp.2020.106535. Epub 
+      2020 Apr 29.
+
+PMID- 28260181
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180723
+LR  - 20181113
+IS  - 2038-3312 (Electronic)
+IS  - 2038-131X (Linking)
+VI  - 69
+IP  - 3
+DP  - 2017 Sep
+TI  - Breast cancer in young women: an overview.
+PG  - 313-317
+LID - 10.1007/s13304-017-0424-1 [doi]
+AB  - Despite dramatic advances in cancer research setting, breast cancer remains a major 
+      health problem and represents currently a top biomedical research priority. 
+      Worldwide, breast cancer is the most common cancer affecting women, and its 
+      incidence and mortality rates are expected to increase significantly the next years. 
+      Recently the researchers' interest has been attracted by breast cancer arising in 
+      young women. Current evidence suggests that in women aged <45 years, breast cancer 
+      is unquestionably the leading cause of cancer-related deaths. This type of cancer 
+      seems to be highly heterogeneous and has potentially aggressive and complex 
+      biological features. However, management strategies, recommendations and options are 
+      not age based and the 'complex' biology of this type of cancer remains uncertain and 
+      unexplored. In this review, we summarize the latest scientific information on breast 
+      cancer arising in young women highlighting the heterogeneity and the complex nature 
+      of this type of cancer.
+FAU - Anastasiadi, Zoi
+AU  - Anastasiadi Z
+AD  - Department of Surgery, School of Medicine, University of Ioannina, Ioannina, Greece.
+FAU - Lianos, Georgios D
+AU  - Lianos GD
+AD  - Department of Surgery, School of Medicine, University of Ioannina, Ioannina, Greece. 
+      georgiolianos@yahoo.gr.
+FAU - Ignatiadou, Eleftheria
+AU  - Ignatiadou E
+AD  - Department of Surgery, School of Medicine, University of Ioannina, Ioannina, Greece.
+FAU - Harissis, Haralampos V
+AU  - Harissis HV
+AD  - Department of Surgery, School of Medicine, University of Ioannina, Ioannina, Greece.
+FAU - Mitsis, Michail
+AU  - Mitsis M
+AD  - Department of Surgery, School of Medicine, University of Ioannina, Ioannina, Greece.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20170304
+PL  - Italy
+TA  - Updates Surg
+JT  - Updates in surgery
+JID - 101539818
+RN  - 0 (Biomarkers, Tumor)
+SB  - IM
+MH  - Adult
+MH  - Age Factors
+MH  - Biomarkers, Tumor/genetics
+MH  - *Breast Neoplasms/diagnosis/genetics/mortality/pathology
+MH  - Female
+MH  - Humans
+MH  - Young Adult
+OTO - NOTNLM
+OT  - Breast cancer
+OT  - Guidelines
+OT  - Next-generation sequencing analyses
+OT  - Personalized cancer medicine
+OT  - Tumor heterogeneity
+OT  - Young woman
+EDAT- 2017/03/06 06:00
+MHDA- 2018/07/24 06:00
+CRDT- 2017/03/06 06:00
+PHST- 2016/10/30 00:00 [received]
+PHST- 2017/02/16 00:00 [accepted]
+PHST- 2017/03/06 06:00 [pubmed]
+PHST- 2018/07/24 06:00 [medline]
+PHST- 2017/03/06 06:00 [entrez]
+AID - 10.1007/s13304-017-0424-1 [pii]
+AID - 10.1007/s13304-017-0424-1 [doi]
+PST - ppublish
+SO  - Updates Surg. 2017 Sep;69(3):313-317. doi: 10.1007/s13304-017-0424-1. Epub 2017 Mar 
+      4.
